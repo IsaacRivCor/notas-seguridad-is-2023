@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "040b7cfa3900c34f",
+        "id": "51605e116b85edc9",
         "type": "tabs",
         "children": [
           {
-            "id": "573eb91d55c3f6a0",
+            "id": "8ba5b8fbfd066c8d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos-bandit/Level 33 → Level 34.md",
+                "file": "PrimerParcial/2021/06-Magikarp Ground Mission.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos-bandit/Level 33 → Level 34.md",
+                "file": "PrimerParcial/2021/06-Magikarp Ground Mission.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos-bandit/Level 33 → Level 34.md",
+                "file": "PrimerParcial/2021/06-Magikarp Ground Mission.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retos-bandit/Level 33 → Level 34.md"
+                "file": "PrimerParcial/2021/06-Magikarp Ground Mission.md"
               }
             }
           }
@@ -146,34 +146,34 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "573eb91d55c3f6a0",
+  "active": "8ba5b8fbfd066c8d",
   "lastOpenFiles": [
-    "retos-bandit/Level 32 → Level 33.md",
-    "retos-bandit/Level 33 → Level 34.md",
-    "retos-bandit/Level 31 → Level 32.md",
-    "retos-bandit/Level 30 → Level 31.md",
-    "retos-bandit/Level 29 → Level 30.md",
-    "retos-bandit/Level 28 → Level 29.md",
-    "retos-bandit/Level 27 → Level 28.md",
-    "retos-bandit/Plantilla.md",
-    "Readme.md",
-    "retos-bandit/Level 16 → Level 17.md",
-    "retos-bandit/Level 17 → Level 18.md",
-    "retos-bandit/Level 18 → Level 19.md",
-    "retos-bandit/Level 19 → Level 20.md",
-    "retos-bandit/Level 20 → Level 21.md",
-    "retos-bandit/Level 21 → Level 22.md",
-    "retos-bandit/Level 22 → Level 23.md",
-    "retos-bandit/Level 23 → Level 24.md",
-    "retos-bandit/Level 24 → Level 25.md",
-    "retos-bandit/Level 25 → Level 26.md",
-    "retos-bandit/Level 26→ Level 27.md",
+    "PrimerParcial/2021/05-Tab, Tab, Attack.md",
+    "PrimerParcial/2021/04-Static ain't always noise.md",
+    "PrimerParcial/2021/03-Nice netcat....md",
+    "PrimerParcial/2021/02-Wave a flag.md",
+    "PrimerParcial/2021/01-Obedient Cat.md",
+    "PrimerParcial/2019/09-plumbing.md",
+    "PrimerParcial/2019/08-Based.md",
+    "PrimerParcial/2021/06-Magikarp Ground Mission.md",
     "PrimerParcial/Plantilla1.md",
-    "PrimerParcial/2019/06-Bases.md",
+    "retos-bandit/Level 4 → Level 5.md",
+    "retos-bandit/Level 5 → Level 6.md",
+    "retos-bandit/Level 3 → Level 4.md",
+    "retos-bandit/Level 2 → Level 3.md",
+    "retos-bandit/Level 1 → Level 2.md",
+    "retos-bandit/Level 0 → Level 1.md",
+    "PrimerParcial/2019/07-First Grep.md",
+    "PrimerParcial/2019/01-Lest Warm Up.md",
+    "PrimerParcial/2019/02-Warmed Up.md",
+    "Cyberchef.md",
     "PrimerParcial/2019/05-strings it.md",
     "PrimerParcial/2019/04-what's a net cat.md",
     "PrimerParcial/2019/03-2Warm.md",
-    "PrimerParcial/2019/01-Lest Warm Up.md",
+    "PrimerParcial/2019/06-Bases.md",
+    "Untitled.md",
+    "retos-bandit/Level 33 → Level 34.md",
+    "retos-bandit/Level 32 → Level 33.md",
     "PrimerParcial/2022",
     "PrimerParcial/2021",
     "PrimerParcial/2019",
