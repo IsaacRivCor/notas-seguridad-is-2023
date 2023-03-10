@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "51605e116b85edc9",
+        "id": "7dbc5ebe3b0ab7a8",
         "type": "tabs",
         "children": [
           {
-            "id": "8ba5b8fbfd066c8d",
+            "id": "0171cbb2afb62a3b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PrimerParcial/2021/06-Magikarp Ground Mission.md",
+                "file": "PicoCTF(clases)/06-Client-side-again.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PrimerParcial/2021/06-Magikarp Ground Mission.md",
+                "file": "PicoCTF(clases)/06-Client-side-again.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PrimerParcial/2021/06-Magikarp Ground Mission.md",
+                "file": "PicoCTF(clases)/06-Client-side-again.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PrimerParcial/2021/06-Magikarp Ground Mission.md"
+                "file": "PicoCTF(clases)/06-Client-side-again.md"
               }
             }
           }
@@ -146,8 +146,31 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "8ba5b8fbfd066c8d",
+  "active": "0171cbb2afb62a3b",
   "lastOpenFiles": [
+    "PicoCTF(clases)/04-dont-use-client-side.md",
+    "PicoCTF(clases)/05-picobrowser.md",
+    "PicoCTF(clases)/06-Client-side-again.md",
+    "PicoCTF(clases)/Capturas/Client-side-again(3).png",
+    "PicoCTF(clases)/Capturas/Client-side-again(1).png",
+    "PicoCTF(clases)/Capturas/Client-side-again.png",
+    "PicoCTF(clases)/03-logon.md",
+    "PicoCTF(clases)/Capturas/dont-use-client-side.png",
+    "PicoCTF(clases)/02-where are the robots.md",
+    "PicoCTF(clases)/Capturas/logon(2).png",
+    "PicoCTF(clases)/Capturas/logon(1).png",
+    "PicoCTF(clases)/01-Insp3ct0r.md",
+    "PicoCTF(clases)/Capturas/where_are_the_robots(2).png",
+    "PicoCTF(clases)/Capturas/where_are_the_robots(1).png",
+    "PicoCTF(clases)/Capturas/Insp3ct0r_js.png",
+    "PicoCTF(clases)/Capturas/Insp3ct0r_ccs.png",
+    "capturas/Inspector.png.md",
+    "capturas",
+    "PicoCTF(clases)/Capturas",
+    "PrimerParcial/Plantilla1.md",
+    "Untitled.md",
+    "PrimerParcial/2021/06-Magikarp Ground Mission.md",
+    "PicoCTF(clases)",
     "PrimerParcial/2021/05-Tab, Tab, Attack.md",
     "PrimerParcial/2021/04-Static ain't always noise.md",
     "PrimerParcial/2021/03-Nice netcat....md",
@@ -155,8 +178,6 @@
     "PrimerParcial/2021/01-Obedient Cat.md",
     "PrimerParcial/2019/09-plumbing.md",
     "PrimerParcial/2019/08-Based.md",
-    "PrimerParcial/2021/06-Magikarp Ground Mission.md",
-    "PrimerParcial/Plantilla1.md",
     "retos-bandit/Level 4 → Level 5.md",
     "retos-bandit/Level 5 → Level 6.md",
     "retos-bandit/Level 3 → Level 4.md",
@@ -165,15 +186,6 @@
     "retos-bandit/Level 0 → Level 1.md",
     "PrimerParcial/2019/07-First Grep.md",
     "PrimerParcial/2019/01-Lest Warm Up.md",
-    "PrimerParcial/2019/02-Warmed Up.md",
-    "Cyberchef.md",
-    "PrimerParcial/2019/05-strings it.md",
-    "PrimerParcial/2019/04-what's a net cat.md",
-    "PrimerParcial/2019/03-2Warm.md",
-    "PrimerParcial/2019/06-Bases.md",
-    "Untitled.md",
-    "retos-bandit/Level 33 → Level 34.md",
-    "retos-bandit/Level 32 → Level 33.md",
     "PrimerParcial/2022",
     "PrimerParcial/2021",
     "PrimerParcial/2019",
