@@ -1,4 +1,4 @@
-A# Reto
+# Reto
 #picoCTF 
 ## Descripción
 
