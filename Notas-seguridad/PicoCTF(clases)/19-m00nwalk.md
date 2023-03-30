@@ -44,7 +44,7 @@ flag.png    message.wav  someta
 └─$ 
 
 ```
-![[flag.png]]
+![[flag 1.png]]
 ## Bandera
 picoCTF{beep_boop_im_in_space}
 

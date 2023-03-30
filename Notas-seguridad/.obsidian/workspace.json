@@ -4,22 +4,71 @@
     "type": "split",
     "children": [
       {
-        "id": "4946b32f50de8062",
+        "id": "1a8fafed80261424",
         "type": "tabs",
         "children": [
           {
-            "id": "8e3addf1955d7952",
+            "id": "0aa0b2edd91fbad7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF(clases)/23-shark on wire 2.md",
+                "file": "PicoCTF(clases)/24-WebNet0.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0cef3ca906b67fc9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF(clases)/25-Webnet1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b05e605ae6ac1dfb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF(clases)/26-Matryoshka doll.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "66779044c7c90bfd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF(clases)/27-tunn3l_v1s10n.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4cb0d96ba1aa2e92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF(clases)/28-MacroHard WeakEdge.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -85,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PicoCTF(clases)/23-shark on wire 2.md",
+                "file": "PicoCTF(clases)/28-MacroHard WeakEdge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PicoCTF(clases)/23-shark on wire 2.md",
+                "file": "PicoCTF(clases)/28-MacroHard WeakEdge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PicoCTF(clases)/23-shark on wire 2.md"
+                "file": "PicoCTF(clases)/28-MacroHard WeakEdge.md"
               }
             }
           }
@@ -147,44 +196,45 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "8e3addf1955d7952",
+  "active": "4cb0d96ba1aa2e92",
   "lastOpenFiles": [
+    "PicoCTF(clases)/17-extensions.md",
+    "PicoCTF(clases)/16-shark on wire 1.md",
+    "PicoCTF(clases)/15-So Meta.md",
+    "PicoCTF(clases)/13-Scavenger Hunt.md",
+    "PicoCTF(clases)/12-Cookies.md",
+    "PicoCTF(clases)/11-GET aHEAD.md",
+    "PicoCTF(clases)/24-WebNet0.md",
+    "PicoCTF(clases)/28-MacroHard WeakEdge.md",
+    "PicoCTF(clases)/27-tunn3l_v1s10n.md",
+    "PicoCTF(clases)/26-Matryoshka doll.md",
+    "PicoCTF(clases)/25-Webnet1.md",
+    "PicoCTF(clases)/Capturas/tunn3l_v1s10n.png",
+    "PicoCTF(clases)/Capturas/tunn3l_v1s10n.bmp",
+    "PicoCTF(clases)/Capturas/WebNet1.png",
     "PicoCTF(clases)/21-c0rrupt.md",
-    "PicoCTF(clases)/Capturas/mystery.png",
+    "PicoCTF(clases)/22-like1000.md",
+    "PicoCTF(clases)/23-shark on wire 2.md",
+    "PicoCTF(clases)/Capturas/webNet0.png",
+    "PrimerParcial/Plantilla1.md",
     "PicoCTF(clases)/20-WhitePages.md",
     "PicoCTF(clases)/19-m00nwalk.md",
-    "PicoCTF(clases)/Capturas/mystery",
-    "PicoCTF(clases)/23-shark on wire 2.md",
-    "PicoCTF(clases)/22-like1000.md",
-    "flag 1.png",
-    "flag.png",
-    "PicoCTF(clases)/Capturas/flaglike1000.png",
-    "PicoCTF(clases)/Capturas/flag (copy 1).png",
-    "PicoCTF(clases)/17-extensions.md",
     "PicoCTF(clases)/18-What Lies Within.md",
-    "PicoCTF(clases)/Capturas/flagm00nwalk.png",
-    "PrimerParcial/Plantilla1.md",
-    "PicoCTF(clases)/16-shark on wire 1.md",
-    "PicoCTF(clases)/12-Cookies.md",
-    "PicoCTF(clases)/13-Scavenger Hunt.md",
-    "PicoCTF(clases)/14-Glory of the Garden.md",
-    "PicoCTF(clases)/15-So Meta.md",
-    "PicoCTF(clases)/Capturas/flag.png",
-    "PicoCTF(clases)/Capturas/sharkonwire1.png",
-    "PicoCTF(clases)/11-GET aHEAD.md",
-    "PicoCTF(clases)/Capturas/ScavengerHunt5.png",
-    "PicoCTF(clases)/Capturas/ScavengerHunt4.png",
-    "PicoCTF(clases)/Capturas/GET-aHead(2).png.md",
-    "PicoCTF(clases)/10-JaWT Scratchpad.md",
-    "PicoCTF(clases)/09-Irish-Name-Repo 3.md",
     "PicoCTF(clases)/08-Irish-Name-Repo 2.md",
     "PicoCTF(clases)/07-Irish-Name-Repo 1.md",
-    "retos-bandit/Level 33 → Level 34.md",
     "PicoCTF(clases)/06-Client-side-again.md",
-    "PrimerParcial/2022/09-PW Crack 3.md",
-    "PrimerParcial/2022/08-PW Crack 2.md",
-    "PrimerParcial/2022/07-PW Crack 1.md",
-    "PrimerParcial/2022/06-Glitch Cat.md",
+    "PicoCTF(clases)/05-picobrowser.md",
+    "PicoCTF(clases)/04-dont-use-client-side.md",
+    "PicoCTF(clases)/03-logon.md",
+    "PicoCTF(clases)/02-where are the robots.md",
+    "PicoCTF(clases)/01-Insp3ct0r.md",
+    "PicoCTF(clases)/Capturas/flag 1 1.png",
+    "PicoCTF(clases)/Capturas/flag 1.png",
+    "PicoCTF(clases)/Capturas/mystery.png",
+    "PicoCTF(clases)/Capturas/mystery",
+    "PicoCTF(clases)/Capturas/flaglike1000.png",
+    "PicoCTF(clases)/Capturas/flag (copy 1).png",
+    "PicoCTF(clases)/Capturas/flagm00nwalk.png",
     "PicoCTF(clases).zip",
     "capturas",
     "PicoCTF(clases)/Capturas",

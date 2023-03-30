@@ -24,7 +24,7 @@ print(flag)
 
 ```
 
-```bash
+``` bash
 ┌──(kali㉿kali)-[~/picoctf/forensic/sharkonwire2]
 └─$ python exp.py 
 picoCTF{p1LLf3r3d_data_v1a_st3g0}
