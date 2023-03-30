@@ -4,71 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "1a8fafed80261424",
+        "id": "bd5f0f01ff06011d",
         "type": "tabs",
         "children": [
           {
-            "id": "0aa0b2edd91fbad7",
+            "id": "f7a7b3708052b291",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PicoCTF(clases)/24-WebNet0.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0cef3ca906b67fc9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PicoCTF(clases)/25-Webnet1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b05e605ae6ac1dfb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PicoCTF(clases)/26-Matryoshka doll.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "66779044c7c90bfd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PicoCTF(clases)/27-tunn3l_v1s10n.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4cb0d96ba1aa2e92",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PicoCTF(clases)/28-MacroHard WeakEdge.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PicoCTF(clases)/28-MacroHard WeakEdge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PicoCTF(clases)/28-MacroHard WeakEdge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "PicoCTF(clases)/28-MacroHard WeakEdge.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -196,8 +139,35 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "4cb0d96ba1aa2e92",
+  "active": "f7a7b3708052b291",
   "lastOpenFiles": [
+    "PicoCTF(clases)/27-tunn3l_v1s10n.md",
+    "PicoCTF 2023/01-money-ware.md",
+    "PicoCTF 2023/02-repetitions.md",
+    "PicoCTF 2023/03-Rules 2023.md",
+    "PicoCTF 2023/04-hideme.md",
+    "PicoCTF 2023/05-rotation.md",
+    "PicoCTF 2023/06-ReadMyCert.md",
+    "PicoCTF 2023/07-Reverse.md",
+    "PicoCTF 2023/08-Ready Gladiator 0.md",
+    "PicoCTF 2023/09 - findme.md",
+    "PicoCTF 2023/chrono.md",
+    "PicoCTF 2023/MatchTheRegex.md",
+    "PicoCTF 2023/PcapPoisoning.md",
+    "PicoCTF 2023/Permissions.md",
+    "PicoCTF 2023/Safe Opener 2.md",
+    "PicoCTF 2023/two sum.md",
+    "PicoCTF 2023/Plantilla.md",
+    "PicoCTF 2023/flag.png",
+    "PicoCTF 2023/img/Pasted image 20230323163558.png",
+    "PicoCTF 2023/img/Pasted image 20230323163510.png",
+    "PicoCTF 2023/img/Pasted image 20230323163438.png",
+    "PicoCTF 2023/img/Pasted image 20230321205909.png",
+    "PicoCTF 2023/img/Pasted image 20230321205822.png",
+    "PicoCTF 2023/img/Pasted image 20230321205730.png",
+    "PicoCTF(clases)/28-MacroHard WeakEdge.md",
+    "PicoCTF 2023/img",
+    "PicoCTF 2023",
     "PicoCTF(clases)/17-extensions.md",
     "PicoCTF(clases)/16-shark on wire 1.md",
     "PicoCTF(clases)/15-So Meta.md",
@@ -205,43 +175,16 @@
     "PicoCTF(clases)/12-Cookies.md",
     "PicoCTF(clases)/11-GET aHEAD.md",
     "PicoCTF(clases)/24-WebNet0.md",
-    "PicoCTF(clases)/28-MacroHard WeakEdge.md",
-    "PicoCTF(clases)/27-tunn3l_v1s10n.md",
-    "PicoCTF(clases)/26-Matryoshka doll.md",
-    "PicoCTF(clases)/25-Webnet1.md",
     "PicoCTF(clases)/Capturas/tunn3l_v1s10n.png",
     "PicoCTF(clases)/Capturas/tunn3l_v1s10n.bmp",
     "PicoCTF(clases)/Capturas/WebNet1.png",
-    "PicoCTF(clases)/21-c0rrupt.md",
-    "PicoCTF(clases)/22-like1000.md",
-    "PicoCTF(clases)/23-shark on wire 2.md",
-    "PicoCTF(clases)/Capturas/webNet0.png",
-    "PrimerParcial/Plantilla1.md",
-    "PicoCTF(clases)/20-WhitePages.md",
-    "PicoCTF(clases)/19-m00nwalk.md",
-    "PicoCTF(clases)/18-What Lies Within.md",
-    "PicoCTF(clases)/08-Irish-Name-Repo 2.md",
-    "PicoCTF(clases)/07-Irish-Name-Repo 1.md",
-    "PicoCTF(clases)/06-Client-side-again.md",
-    "PicoCTF(clases)/05-picobrowser.md",
-    "PicoCTF(clases)/04-dont-use-client-side.md",
-    "PicoCTF(clases)/03-logon.md",
-    "PicoCTF(clases)/02-where are the robots.md",
-    "PicoCTF(clases)/01-Insp3ct0r.md",
-    "PicoCTF(clases)/Capturas/flag 1 1.png",
-    "PicoCTF(clases)/Capturas/flag 1.png",
-    "PicoCTF(clases)/Capturas/mystery.png",
     "PicoCTF(clases)/Capturas/mystery",
-    "PicoCTF(clases)/Capturas/flaglike1000.png",
-    "PicoCTF(clases)/Capturas/flag (copy 1).png",
-    "PicoCTF(clases)/Capturas/flagm00nwalk.png",
     "PicoCTF(clases).zip",
     "capturas",
     "PicoCTF(clases)/Capturas",
     "PicoCTF(clases)",
     "PrimerParcial/2022",
     "PrimerParcial/2021",
-    "PrimerParcial/2019",
-    "PrimerParcial"
+    "PrimerParcial/2019"
   ]
 }
