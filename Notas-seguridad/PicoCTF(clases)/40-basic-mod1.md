@@ -37,14 +37,34 @@ message.txt
 └─$ cat message.txt 
 128 322 353 235 336 73 198 332 202 285 57 87 262 221 218 405 335 101 256 227 112 140                                                                                                                     
 ┌──(kali㉿kali)-[~/picoctf/crypto/basic-mode1]
+└─$ python exp.py
+R0UND_N_R0UND_79C18FB3
+                                                                                                                    
+┌──(kali㉿kali)-[~/picoctf/crypto/basic-mode1]
 └─$ 
+
 ```
+Sript de python
 ```python
+datos = open('message.txt').read().split()
+
+flag = ''
+for n in datos: 
+        c = int(n) % 37
+        if c >= 0 and c <= 25:
+                s = chr(c+65)  
+        elif c >= 26 and c <= 35:
+                s = chr(c+22)
+        else:
+                s = '_'
+        flag += s
+
+print(flag)
 
 ```
 
 ## Bandera
-picoCTF{}
+picoCTF{R0UND_N_R0UND_79C18FB3}
 
 ## Notas adicionales
 | comando | descripción |

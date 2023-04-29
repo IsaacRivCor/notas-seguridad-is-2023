@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF(clases)/37-b00tl3gRSA2.md",
+                "file": "PicoCTF(clases)/41-HideToSee.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PicoCTF(clases)/37-b00tl3gRSA2.md",
+                "file": "PicoCTF(clases)/41-HideToSee.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PicoCTF(clases)/37-b00tl3gRSA2.md",
+                "file": "PicoCTF(clases)/41-HideToSee.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PicoCTF(clases)/37-b00tl3gRSA2.md"
+                "file": "PicoCTF(clases)/41-HideToSee.md"
               }
             }
           }
@@ -149,18 +149,21 @@
   },
   "active": "a64015200d65b865",
   "lastOpenFiles": [
-    "PicoCTF(clases)/35-rsa-pop-quiz.md",
-    "PicoCTF(clases)/37-b00tl3gRSA2.md",
-    "PicoCTF(clases)/36-miniRSA.md",
+    "PicoCTF(clases)/42-ReadMyCert.md",
+    "PrimerParcial/Plantilla1.md",
     "PicoCTF(clases)/41-HideToSee.md",
-    "PicoCTF(clases)/39-Pixelated.md",
-    "PicoCTF(clases)/40-basic-mod1.md",
-    "PicoCTF(clases)/38-Mind your Ps and Qs.md",
-    "fla.png.md",
+    "PicoCTF(clases)/Capturas/atbashsolution.png",
     "PicoCTF(clases)/30-Easy 1.md",
+    "PicoCTF(clases)/Capturas/atbash.jpg",
+    "PicoCTF(clases)/40-basic-mod1.md",
+    "PicoCTF(clases)/39-Pixelated.md",
+    "PicoCTF(clases)/38-Mind your Ps and Qs.md",
+    "PicoCTF(clases)/37-b00tl3gRSA2.md",
+    "PicoCTF(clases)/35-rsa-pop-quiz.md",
+    "PicoCTF(clases)/36-miniRSA.md",
+    "fla.png.md",
     "PicoCTF(clases)/Capturas/flag (copy 1).png",
     "PicoCTF(clases)/Capturas/MindYourPsandQs.png",
-    "PrimerParcial/Plantilla1.md",
     "PicoCTF(clases)/34-waves over lambda.md",
     "PicoCTF(clases)/34-Tapping.md",
     "PicoCTF(clases)/33-la cifra de.md",
@@ -182,9 +185,6 @@
     "PicoCTF 2023/01-money-ware.md",
     "PicoCTF 2023/02-repetitions.md",
     "PicoCTF 2023/03-Rules 2023.md",
-    "PicoCTF 2023/04-hideme.md",
-    "PicoCTF 2023/flag.png",
-    "PicoCTF 2023/img/Pasted image 20230323163558.png",
     "PicoCTF 2023/img",
     "PicoCTF 2023",
     "PicoCTF(clases)/Capturas/mystery",

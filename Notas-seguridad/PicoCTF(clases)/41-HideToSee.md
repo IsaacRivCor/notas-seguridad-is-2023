@@ -26,9 +26,27 @@ atbash.jpg                   100%[=============================================>
 └─$ ls
 atbash.jpg
 ```
-
+![[atbash.jpg]]
+```bash
+┌──(kali㉿kali)-[~/picoctf/crypto/HideToSee]
+└─$ steghide extract -sf atbash.jpg 
+Enter passphrase: 
+wrote extracted data to "encrypted.txt".
+                                                                                                                    
+┌──(kali㉿kali)-[~/picoctf/crypto/HideToSee]
+└─$ ls
+atbash.jpg  encrypted.txt
+                                                                                                                    
+┌──(kali㉿kali)-[~/picoctf/crypto/HideToSee]
+└─$ cat encrypted.txt 
+krxlXGU{zgyzhs_xizxp_92533667}
+                                                                                                                    
+┌──(kali㉿kali)-[~/picoctf/crypto/HideToSee]
+└─$ 
+!```
+![[atbashsolution.png]]
 ## Bandera
-picoCTF{}
+picoCTF{atbash_crack_92533667}
 
 ## Notas adicionales
 | comando | descripción |
