@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d8eede84aa9953f9",
+        "id": "f97f5c4d14e46f13",
         "type": "tabs",
         "children": [
           {
-            "id": "0defbfa67ad1cfd7",
+            "id": "1891047acd53b193",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SegundoParcial/2021/17-St3g0...md",
+                "file": "PicoCTF(clases)/46-vault-door-4.md",
                 "mode": "source",
                 "source": false
               }
@@ -64,6 +64,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "b4ad1c74350c4681",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SegundoParcial/2021/17-St3g0...md",
+                "file": "PicoCTF(clases)/46-vault-door-4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SegundoParcial/2021/17-St3g0...md",
+                "file": "PicoCTF(clases)/46-vault-door-4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SegundoParcial/2021/17-St3g0...md"
+                "file": "PicoCTF(clases)/46-vault-door-4.md"
               }
             }
           }
@@ -147,11 +155,17 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "0defbfa67ad1cfd7",
+  "active": "1891047acd53b193",
   "lastOpenFiles": [
+    "PicoCTF(clases)/45-vault-door-3.md",
+    "PicoCTF(clases)/44-vault-door-1.md",
+    "PicoCTF(clases)/43-vault-door-training.md",
+    "PicoCTF(clases)/46-vault-door-4.md",
+    "PrimerParcial/Plantilla1.md",
+    "Readme.md",
+    "SegundoParcial/2021/17-St3g0...md",
     "PicoCTF(clases)/41-HideToSee.md",
     "PicoCTF(clases)/42-ReadMyCert.md",
-    "SegundoParcial/2021/17-St3g0...md",
     "SegundoParcial/2021/16-Redaction gone wrong.md",
     "SegundoParcial/2021/15-Packets Primer.md",
     "SegundoParcial/CapturasSegundoParcial/packetsPrimer.png",
@@ -180,14 +194,9 @@
     "SegundoParcial/2022/01-Includes.md",
     "PicoCTF(clases)/29-The Numbers.md",
     "SegundoParcial/CapturasSegundoParcial",
-    "SegundoParcial/Plantilla.md",
     "SegundoParcial/2022",
     "SegundoParcial/2021",
     "SegundoParcial",
-    "PrimerParcial/Plantilla1.md",
-    "PicoCTF(clases)/30-Easy 1.md",
-    "PicoCTF(clases)/40-basic-mod1.md",
-    "PicoCTF(clases)/39-Pixelated.md",
     "PicoCTF 2023/img",
     "PicoCTF 2023",
     "PicoCTF(clases)/Capturas/mystery",
