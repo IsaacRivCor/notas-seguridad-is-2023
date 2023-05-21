@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF(clases)/55-buffer overflow 0.md",
+                "file": "PicoCTF(clases)/58-Stonks.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PicoCTF(clases)/55-buffer overflow 0.md",
+                "file": "PicoCTF(clases)/58-Stonks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PicoCTF(clases)/55-buffer overflow 0.md",
+                "file": "PicoCTF(clases)/58-Stonks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PicoCTF(clases)/55-buffer overflow 0.md"
+                "file": "PicoCTF(clases)/58-Stonks.md"
               }
             }
           }
@@ -157,10 +157,14 @@
   },
   "active": "60c3830ac3ecf5d7",
   "lastOpenFiles": [
-    "PicoCTF(clases)/54-basic-file-exploit.md",
-    "PicoCTF(clases)/55-buffer overflow 0.md",
-    "PicoCTF(clases)/56-buffer overflow 1.md",
+    "PicoCTF(clases)/Capturas/stonks1.png",
+    "PicoCTF(clases)/Capturas/stonks.png",
+    "PicoCTF(clases)/57-flag leak.md",
+    "PicoCTF(clases)/58-Stonks.md",
     "PrimerParcial/Plantilla1.md",
+    "PicoCTF(clases)/55-buffer overflow 0.md",
+    "PicoCTF(clases)/54-basic-file-exploit.md",
+    "PicoCTF(clases)/56-buffer overflow 1.md",
     "PicoCTF(clases)/53-Safe Opener 2.md",
     "PicoCTF(clases)/52-reverse_cipher.md",
     "PicoCTF(clases)/51-GDB Test Drive.md",
@@ -183,16 +187,12 @@
     "SegundoParcial/2021/15-Packets Primer.md",
     "SegundoParcial/CapturasSegundoParcial/packetsPrimer.png",
     "SegundoParcial/2021/14-Lookey here.md",
-    "SegundoParcial/2021/13-Enhance!.md",
-    "SegundoParcial/2021/12-Wireshark doo dooo do doo...md",
     "SegundoParcial/CapturasSegundoParcial/wiresharkdoodoodoo1.png",
     "SegundoParcial/CapturasSegundoParcial/wiresharkdoodoodoo.png",
-    "SegundoParcial/2021/11-information.md",
     "SegundoParcial/CapturasSegundoParcial/information.png",
     "SegundoParcial/CapturasSegundoParcial/SQLLite.png",
     "SegundoParcial/CapturasSegundoParcial/Secrets2.png",
     "SegundoParcial/CapturasSegundoParcial/Secrets1.png",
-    "SegundoParcial/CapturasSegundoParcial/Secrets.png",
     "SegundoParcial/CapturasSegundoParcial",
     "SegundoParcial/2022",
     "SegundoParcial/2021",
